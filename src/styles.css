@@ -1,0 +1,13 @@
+.user-deatils-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
